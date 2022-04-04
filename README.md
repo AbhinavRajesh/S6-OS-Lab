@@ -11,3 +11,7 @@
    - [Python program to implement SJF(Non-preemptive) Scheduling](./lab3/sjf.py)
 4. [Lab 4](./lab4)
    - [Python program to implement RR Scheduling](./lab4/rr.py)
+5. [Lab 5](./lab5/)
+   - [Write a program using pipes where a parent process sends 'n' numbers to a child process and child display it.](./lab5/1.py)
+   - [Write a program using pipes where a parent process sends 'n' numbers to the child and the child process accepts it and sends back the prime numbers among that to the parent. Parent display it.](./lab5/2.py)
+   - [Write a program using pipes in which a parent sends a string to the child and child sends back whether the string is a palindrome or not. Parent display it.](./lab5/3.py)
